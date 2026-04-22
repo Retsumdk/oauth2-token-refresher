@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 /**
  * oauth2-token-refresher - Automatic OAuth2 token refresh with caching
- * Built with Zo Computer by The BookMaster
+ * Built by Retsumdk
  */
 
 import { Command } from "commander";
